@@ -1,2 +1,0 @@
-# project
-my personal webpage
